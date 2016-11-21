@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 def fib(limit):
-    result = [1]
     i = 0
     while limit > 1:
         if i == 0:
