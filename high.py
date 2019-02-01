@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+import string
+
 def high(x):
     values = dict()
     for index, letter in enumerate(string.ascii_lowercase):
