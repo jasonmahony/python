@@ -1,9 +1,7 @@
 #!/usr/bin/python
 
-import re
-
 def remove_url_anchor(url):
-    return re.split("#", url, 1)[0]
+    return url.split("#")[0]
 
 
-print remove_url_anchor("testing#blah")
+print remove_url_anchor("www.testing.com#blah?=0")
