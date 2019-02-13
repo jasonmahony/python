@@ -1,0 +1,5 @@
+jason |  likes |  adding stuff | 0
+row1 | 1 | 2 | 3 | 4 | 10
+2 | 3 | 5 | 10
+ | 3 |  |  | 3
+Total Sum = 23
